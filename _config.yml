@@ -1,0 +1,8 @@
+title: Bolito2.GitHub.io
+description: Habla de cabezas con el gorrito dimulsimimulando que es calvoooooooooooo
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
